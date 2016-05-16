@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/romellem/cheerio.git"
+    "url": "git://github.com/cheeriojs/cheerio.git"
   },
   "main": "./index.js",
   "files": [
@@ -30,7 +30,7 @@
   "dependencies": {
     "css-select": "~1.2.0",
     "entities": "~1.1.1",
-    "htmlparser2": "git+https://github.com/romellem/htmlparser2#3.8.1",
+    "htmlparser2": "git+https://github.com/romellem/htmlparser2#8236704f",
     "dom-serializer": "~0.1.0",
     "lodash": "^4.1.0"
   },
