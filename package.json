@@ -30,7 +30,7 @@
   "dependencies": {
     "css-select": "~1.2.0",
     "entities": "~1.1.1",
-    "htmlparser2": "git+https://github.com/romellem/htmlparser2#with_raw",
+    "htmlparser2": "git+https://github.com/romellem/htmlparser2",
     "dom-serializer": "git+https://github.com/romellem/dom-serializer",
     "lodash": "^4.1.0"
   },
